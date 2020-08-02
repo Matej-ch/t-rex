@@ -160,3 +160,19 @@ textarea {
   clear: both;
 }
 
+.dino {
+  width: 60px;
+  height: 60px;
+  background-color: red;
+  position: absolute;
+  bottom: 0;
+}
+
+.obstacle {
+  width: 60px;
+  height: 60px;
+  background-color: darkorange;
+  bottom: 0;
+  position: absolute;
+}
+
